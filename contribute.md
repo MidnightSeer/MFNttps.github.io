@@ -7,7 +7,7 @@ Tactic, Technique, and Procedure
 
 ## Structure
 
-Each MFNttp is defined in a file in the [`_mfnttps/`] folder named as `<ttpary name>.md`, such file consists only of a [YAML] front matter which describes the ttpary and its functions.
+Each MFNttp is defined in a file in the [`_mfnttps/`] folder named as `<ttp name>.md`, such file consists only of a [YAML] front matter which describes the ttpary and its functions.
 
 The full syntax is the following:
 
